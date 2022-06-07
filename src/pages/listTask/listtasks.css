@@ -1,0 +1,29 @@
+.list{
+    background-color:   #F5F5F7;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    
+}
+
+.warp-list {
+    position: absolute;
+    top: 50%;
+    left: 12%;
+    margin-top: 100px;
+    width: 74%;
+}
+
+.operation {
+    display: flex;
+}
+.add {
+    width: 150px;
+    margin-top: 20px;
+}
+
+
+
+button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.MuiButton-disableElevation {
+    margin-left: 10px;
+}

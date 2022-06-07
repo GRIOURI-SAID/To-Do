@@ -1,0 +1,39 @@
+.login{
+    background-color:   #F5F5F7;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    
+}
+
+.warp-login {
+    position: absolute;
+    top: 50%;
+    left: 33%;
+    margin-top: 100px;
+    width: 37%;
+}
+
+.logo-img{
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.MuiFormControl-root {
+    width: 100% !important;
+    padding: 15px 4px !important;
+}
+
+button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-disableElevation {
+    width: 100%;
+}
+
+button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.MuiButton-disableElevation {
+    width: 100%;
+    margin-bottom: 17px;
+}
+
+p.MuiTypography-root.makeStyles-pos-7.MuiTypography-body1.MuiTypography-colorTextSecondary {
+    text-align: center !important;
+    margin-bottom: 5px !important;
+}

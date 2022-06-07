@@ -1,0 +1,20 @@
+.addtask{
+    background-color:   #F5F5F7;
+    height: 100%;
+    width: 100%  !important;
+    position: relative;
+    
+}
+
+.warp-addtask {
+    position: absolute;
+    top: 50%;
+    left: 25%;
+    margin-top: 100px;
+    width: 50%;
+}
+
+.group{
+    display: flex;
+ 
+}
